@@ -1,0 +1,7 @@
+En el dia de hoy los temas tratados son: 
+-Resolveremos un taller de github
+-Aprenderemos a subir un proyecto a github
+
+¿Que es un sistema de control de versiones ?
+
+Un sistema de control de versiones es un software que nos permite gestionar cambios que se realizan en los elementos de un producto
